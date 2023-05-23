@@ -18,3 +18,7 @@ The included sample document is the Republic of Rome rule book.
    ```
    ./env/Scripts/python.exe ./app.py
    ```
+
+## Screenshot
+
+![image](https://github.com/iamlogand/llm-with-doc-context/assets/104830874/d94c1a6e-6219-4d39-a53c-f4e4ad2a5848)
