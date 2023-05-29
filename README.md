@@ -1,7 +1,7 @@
 # LLM Q&A script that uses a document for context
 A simple console script that uses a large language model (LLM) to answer questions specifically related to a given document. Uses the [langchain](https://github.com/hwchase17/langchain) framework and the OpenAI API.
 
-The included sample document is the Republic of Rome rule book.
+The included sample document is the Republic of Rome rule book, stripped down to the core and advanced rules.
 
 
 ## Limitations
